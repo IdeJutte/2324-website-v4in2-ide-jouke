@@ -54,4 +54,25 @@ font-size:14px;
 font-family:Arial;
 color: #F0D443;
 float: left;}
-
+#grootfoto {
+width: 100%;
+height: 600px;
+float: left;}
+#fotoA {
+width: 90%;
+height: 600px;
+float: right;}
+#tekstA {
+background-color: #F0B92B;
+width: 90%;
+height: 200px;
+font-size:14px;
+font-family:Arial;
+float: right;}
+#zijbalk {
+background-color:#F06839 ;
+width: 10%;
+height: 900px;
+font-size:14px;
+font-family:Arial;
+float: left;}
