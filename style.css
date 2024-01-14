@@ -59,6 +59,14 @@ float: right;}
    font-size:16px;
    font-family:Arial;
    float: right;}
+  
+   #tekstonder2 {
+      background-color: #F0B92B;
+      width: 100%;
+      height: 550px;
+      font-size:16px;
+      font-family:Arial;
+      float: right;}
 
 #contact {
 background-color: #000000;
@@ -122,23 +130,21 @@ float: right;}
    font-family:Arial;
    float: right;}
 
-/* overige css */
+   /* overige css */
 a {color: #000000;
-text-decoration: none;}
-
-#menubalk a {
-   float: left;
-   color: #000000;
-   padding: 20px 30px;
-   text-align: center;
-   text-decoration: none;
-   font-size: 17px;}
+   text-decoration: none;}
    
-#menubalk a:hover {
-   background-color: #292929;
-   color: rgb(255, 255, 255);}
-   
-   ul {
-list-style-type: circle; }
-ol.a {
-list-style-type: decimal;}
+   #menubalk a {
+      float: left;
+      color: #000000;
+      padding: 20px 30px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 17px;}
+      
+   #menubalk a:hover {
+      background-color: #000000;
+      color: rgb(255, 255, 255);}
+      
+      ul {
+   list-style-type: circle; }
