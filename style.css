@@ -26,6 +26,7 @@ Height: 100px;
 float: right;}
 
  #logo {
+background-color: #F08E43;
 width:30%;
 Height:100px;
 float: left;}
@@ -50,6 +51,14 @@ height: 1000px;
 font-size:16px;
 font-family:Arial;
 float: right;}
+
+#tekstonder1 {
+   background-color: #F0B92B;
+   width: 100%;
+   height: 600px;
+   font-size:16px;
+   font-family:Arial;
+   float: right;}
 
 #contact {
 background-color: #000000;
@@ -128,5 +137,8 @@ text-decoration: none;}
 #menubalk a:hover {
    background-color: #292929;
    color: rgb(255, 255, 255);}
+   
    ul {
 list-style-type: circle; }
+ol.a {
+list-style-type: decimal;}
